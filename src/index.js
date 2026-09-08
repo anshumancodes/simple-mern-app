@@ -9,7 +9,7 @@ app.get("/", (req, res) => {
   res.send(`
     <html>
       <body>
-        <h1>Hey 👋</h1>
+        <h1>Hey there!</h1>
         <p>
           This is a simple Express app deployed by Anshuman.
           It's hosted on DigitalOcean btw and uses Nginx reverse proxy.
